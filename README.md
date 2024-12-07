@@ -1,6 +1,5 @@
-## Hi there 👋
-
 <!--
+## Hi there 👋
 **armaanPy/armaanPy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,3 +15,8 @@ Here are some ideas to get you started:
 -->
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/armaanPy)
+
+- 🔭 I’m currently working on building an algorithimic trading platform and a self hosted ML Ops platform.
+- 🌱 Programming Languages: Python, Groovy.
+- ⚡ Scripting: Shell, Powershell.
+- 😄 CI/CD: Ansible, Docker, GitLab, Jenkins, Terraform 
