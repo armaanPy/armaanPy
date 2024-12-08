@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/armaanPy)
-
+- 🤔 I'm currently working as a Senior Platform Engineer within Systematic Trading.
 - 🔭 I’m currently working on building an algorithimic trading platform and a self hosted ML Ops platform.
 - 🌱 Programming Languages: Python, Groovy.
 - ⚡ Scripting: Shell, Powershell.
-- 😄 CI/CD: Ansible, Docker, GitLab, Jenkins, Terraform 
+- 😄 CI/CD: Ansible, Docker, GitLab, Jenkins, Terraform.
