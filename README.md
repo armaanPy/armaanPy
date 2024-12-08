@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 🌱 Programming Languages: Python, Groovy.
 - ⚡ Scripting: Shell, Powershell.
 - 😄 CI/CD: Ansible, Docker, GitLab, Jenkins, Terraform.
+- 💬 Cloud: AWS
