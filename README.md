@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/armaanPy)\
-![Codewars Kyu](https://www.codewars.com/users/armaanPy/badges/large)
+<p style="text-align:center;">![Leetcode Stats](https://leetcard.jacoblin.cool/armaanPy)\</p>
+<p style="text-align:center;">![Codewars Kyu](https://www.codewars.com/users/armaanPy/badges/large)\</p>
+
+
 
 
 - 🤔 I'm currently working as a Senior Platform Engineer within Systematic Trading.
