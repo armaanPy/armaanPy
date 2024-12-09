@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/armaanPy)\
-![Codewars Kyu](https://www.codewars.com/users/armaanPy/badges/large)\
+![Codewars Kyu](https://www.codewars.com/users/armaanPy/badges/large)
 
 
 
