@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p style="text-align:center;">![Leetcode Stats](https://leetcard.jacoblin.cool/armaanPy)\</p>
-<p style="text-align:center;">![Codewars Kyu](https://www.codewars.com/users/armaanPy/badges/large)\</p>
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/armaanPy)\
+![Codewars Kyu](https://www.codewars.com/users/armaanPy/badges/large)\
 
 
 
