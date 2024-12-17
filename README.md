@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/armaanPy)\
 ![Codewars Kyu](https://www.codewars.com/users/armaanPy/badges/large)
 
-
-
-- 🤔 I'm currently working as a Senior Platform Engineer within Systematic Trading.
-- 🔭 In my spare time, I’m working on building an algorithimic trading platform and a self hosted ML Ops platform.
 - 🌱 Programming Languages: Python, Groovy.
 - ⚡ Scripting: Shell, Powershell.
 - 😄 CI/CD: Ansible, Docker, GitLab, Jenkins, Terraform.
