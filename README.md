@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/armaanPy)\
 ![Codewars Kyu](https://www.codewars.com/users/armaanPy/badges/large)
 
+- 🔭 Interests: Options, ML Ops, Quant Technology.
 - 🌱 Programming Languages: Python, Groovy.
 - ⚡ Scripting: Shell, Powershell.
-- 😄 CI/CD: Ansible, Docker, GitLab, Jenkins, Terraform.
-- 💬 Cloud: AWS
+- 😄 CI/CD: Ansible, Docker, Github Actions, Jenkins, Terraform.
+- 💬 Cloud: AWS, Azure
