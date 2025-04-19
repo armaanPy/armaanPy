@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/armaanPy)\
+![Leetcode Stats](https://leetcard.jacoblin.cool/armaanPy)
 
 - 🔭 Interests: Options, Trading, Quant Technology
 - 🌱 Programming Languages: Python, Groovy
